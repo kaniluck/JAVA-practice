@@ -11,7 +11,7 @@ public class Chapter05 {
         System.out.println(i);
         Float f = 1.4142f;
         System.out.println(f);
-        Character c = 'b';
+        Character c = 'う';
         System.out.println(c);
 
         int[] array = { 0, 10, 20, 30, 40 };
